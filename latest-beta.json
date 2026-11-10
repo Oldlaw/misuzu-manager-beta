@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1-beta.6",
-  "notes": "Windows x64 installer for the friends-testing Beta channel. Install this build to receive future updates from this channel.",
-  "pub_date": "2026-11-10T11:55:58.8277403Z",
+  "version": "1.0.1-beta.7",
+  "notes": "# Misuzu Manager Beta 1.0.1-beta.7\n\n- 修复 Misuzu 与 Classic White 主题选择在 Beta 中不可用的问题；设置会保存。\n- 恢复 CG 背景的全局和单页开关，并支持调整透明度；相关设置会保存。\n",
+  "pub_date": "2026-11-10T13:45:46.5315720Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTytOVXhYTlFKaUN2ZE55Z3B5a1Bwa3dXbjdiaEhOQTE1Z2Qrckl3a0tjWEZ0YjZDWkFOVzA3a1Mxajh0KzdkQ0lxeHdiQ2U0ODlyeFhaeEkydjNrSUJ4NGFycm9CaGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzExNjAzCWZpbGU6TWlzdXp1IE1hbmFnZXIgQmV0YV8xLjAuMS1iZXRhLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4xLWJldGEuNgpjR1lyVy9IQzFvOHFmb1JRWXNCQ0pBUS9xWVMwMTlkNkNGaWZvdVF5WHI5UzV5WFl5U1RoRHh5cjJwV3kyalBVdUVtUU5GQ3FkQjlTWXlpd2NlZUFCQT09Cg==",
-      "url": "https://github.com/Oldlaw/misuzu-manager-beta/releases/download/v1.0.1-beta.6/MisuzuManager-Beta-1.0.1-beta.6-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTytOVXhYTlFKaU80a0lHUFNPam9zajNDbWRLNE81OWJ6WmFtZlZyL1p2Ry8zMk84eGhqVkt1UkhqbVZmb1U0dnJXaFpRVWt2anlOakM5SU41K2hIbFhZYi9rRE83c2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE4Mjk4CWZpbGU6TWlzdXp1IE1hbmFnZXIgQmV0YV8xLjAuMS1iZXRhLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4xLWJldGEuNwpYeUN0VmNLYzFHdkRaUGlvbzZ6VnpxYUVFQ3FnbXNBN3BUTm5aN0FQckVOaVByQXJwOTdqTUc0WWlXdkZKQkxEUmJ5QUdPSUZxM3VoVThlVnVzU0NCQT09Cg==",
+      "url": "https://github.com/Oldlaw/misuzu-manager-beta/releases/download/v1.0.1-beta.7/MisuzuManager-Beta-1.0.1-beta.7-windows-x64-setup.exe"
     }
   }
 }
